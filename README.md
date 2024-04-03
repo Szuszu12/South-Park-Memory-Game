@@ -33,7 +33,7 @@ git clone https://github.com/Szuszu12/South-Park-Memory-Game.git
 
 2. Open `index.html` in your web browser.
 
-or use this link to open page in browser: https://szuszu12.github.io/South-Park-Memory-Game/ to open game in web browser
+or use this link to open page in browser: https://szuszu12.github.io/South-Park-Memory-Game/
 
 ##
 
