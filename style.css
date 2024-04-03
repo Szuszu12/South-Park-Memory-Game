@@ -80,6 +80,7 @@ p {
 }
 
 footer {
+    height: 25px;
     font-family: normal;
     font-size: 12px;
     text-align: center;
