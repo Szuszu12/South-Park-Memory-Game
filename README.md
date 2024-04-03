@@ -17,7 +17,7 @@ This memory game is built using HTML, CSS, and JavaScript. It features South Par
 
 1. Click on a card to reveal its character image.
 2. Click on another card to find its match.
-3. If the two revealed cards match, they stay flipped.
+3. If the two revealed cards match, they disappear.
 4. If the cards don't match, they flip back over.
 5. Keep matching pairs until all cards are revealed.
 
