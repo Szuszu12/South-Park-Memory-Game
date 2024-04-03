@@ -21,7 +21,10 @@ This memory game is built using HTML, CSS, and JavaScript. It features South Par
 4. If the cards don't match, they flip back over.
 5. Keep matching pairs until all cards are revealed.
 
-## Installation
+# Getting Started:
+To get started with Game, follow these steps:
+
+## How to use:
 
 1. Clone the repository:
 ```
