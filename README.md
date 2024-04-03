@@ -28,7 +28,7 @@ To get started with Game, follow these steps:
 
 1. Clone the repository:
 ```
-git clone (https://github.com/Szuszu12/South-Park-Memory-Game.git)
+git clone [https://github.com/Szuszu12/South-Park-Memory-Game](https://github.com/Szuszu12/South-Park-Memory-Game.git)
 ```
 
 2. Open `index.html` in your web browser.
