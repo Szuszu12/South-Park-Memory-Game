@@ -61,7 +61,7 @@ function hide2Cards(nr1, nr2) {
     pairsLeft--;
     
     if(pairsLeft == 0) {
-        var winMessage = '<div class="win-message"><img src="img/southpark.png.webp" alt="You win!"><br>You win!<br>Done in '+turnCounter+' turns</div>';
+        var winMessage = '<div class="win-message"><img src="img/southpark.png.webp" alt="You win!"><br>You win!<br>Done in '+turnCounter+' turns</div><br><br> Thanks for playing!';
         $('.board').html(winMessage);
     }
     
