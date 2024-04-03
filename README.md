@@ -32,8 +32,6 @@ git clone [https://github.com/Szuszu12/South-Park-Memory-Game](https://github.co
 
 or simply click this link: https://szuszu12.github.io/South-Park-Memory-Game/ to open game in web browser
 
-## Credits
 
-- **Developer**: Szuszu12
 - **Inspiration**: [South Park Studios](https://www.southparkstudios.com/)
 
