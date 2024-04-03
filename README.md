@@ -24,7 +24,7 @@ This memory game is built using HTML, CSS, and JavaScript. It features South Par
 # Getting Started:
 To get started with Game, follow these steps:
 
-## Instalation:
+### Instalation:
 
 1. Clone the repository:
 ```
