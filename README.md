@@ -24,8 +24,9 @@ This memory game is built using HTML, CSS, and JavaScript. It features South Par
 ## Installation
 
 1. Clone the repository:
-
+```
 git clone [https://github.com/Szuszu12/South-Park-Memory-Game](https://github.com/Szuszu12/South-Park-Memory-Game.git)
+```
 
 2. Open `index.html` in your web browser.
 
