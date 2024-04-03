@@ -1,0 +1,86 @@
+body {
+    margin: 0;
+    background-color: #2D3142;
+    color: #F2EFEF;
+    font-family: 'Lobster', sans-serif;
+    font-size: 20px; 
+}
+
+a:link, a:visited, a:active {
+    color: #F2EFEF; 
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+a:hover {
+    color: #E9B64A;
+}
+
+h1 {
+    font-size: 48px;
+    font-weight: 400;
+    text-align: center;
+    letter-spacing: 2px;
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+
+p {
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    letter-spacing: 1px;
+}
+
+.board {
+    width: 600px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.cardA, .card {
+    width: 120px; 
+    height: 120px;
+    display: inline-block;
+    margin: 5px;
+    background-color: #FFFFFF; 
+    border: none;
+    border-radius: 12px; 
+    cursor: pointer;
+    overflow: hidden; 
+    transition: transform 0.3s ease; 
+}
+
+.cardA:hover, .card:hover {
+    transform: scale(1.05); 
+}
+
+.score {
+    margin-top: 10px;
+    letter-spacing: 1px; 
+}
+
+#restart-button {
+	display: block;
+	margin: 20px auto;
+	padding: 10px 20px;
+	background-color: #3c70e9;
+	color: #26282E;
+	font-family: "Lobster", sans-serif;
+	font-size: 24px;
+	border: none;
+	border-radius: 6px;
+	cursor: pointer;
+	transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+#restart-button:hover {
+	background-color: #26282E;
+	color: #E9B64A;
+}
+
+footer {
+    font-family: normal;
+    font-size: 12px;
+    text-align: center;
+}
